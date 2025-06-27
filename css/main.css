@@ -98,7 +98,7 @@ header.active .icon{filter: invert(65%) sepia(79%) saturate(469%) hue-rotate(184
 }
 
 
-.about{background: url(../img/About\ us_bg.jpg)no-repeat center/cover;}
+.about{background: url(../img/aboutus_bg.jpg)no-repeat center/cover;}
 .about .inner{padding: 5%;}
 .about ul{display: flex; gap: 20px;}
 .about ul li{display: block; text-align: center; width: calc((100% - 40px)/ 3);}
@@ -144,7 +144,7 @@ header.active .icon{filter: invert(65%) sepia(79%) saturate(469%) hue-rotate(184
   .business ul li a{font-size: 2rem;}
 }
 
-.product{background: url(../img/Product_bg.jpg)no-repeat center/cover; }
+.product{background: url(../img/product_new_bg.jpg)no-repeat center/cover; }
 .product .tab-container{width: 80%; display: flex; align-items: center; padding: 5% 0 5% 10%;}
 .product .product-name{width: 20%;}
 .product .product-name ul{padding: 10px; display: flex; flex-direction: column; gap: 70px;}
